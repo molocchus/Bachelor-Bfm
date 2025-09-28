@@ -1,5 +1,5 @@
-# Porównanie metod rotacji podwójnego czynnika
+# Comparison of Double Factor Rotation Methods
 
-- Jest to temat mojej pracy licencjackiej. Chciałem napisać ambitną, ścisłą pracę, w której pomagał mi profesor z MIMUW.  
-- Analizy do pracy były przeprowadzane przy pomocy języka R.  
-- Opracowywanie tematu nauczyło mnie wiele o analizie czynnikowej i dało mi solidne podstawy w przeprowadzaniu przeglądu literatury naukowej.
+- This is the topic of my bachelor’s thesis. I wanted to write an ambitious, rigorous thesis, in which I was assisted by a professor from MIMUW.  
+- The analyses for the thesis were conducted using the R programming language.  
+- Working on the topic taught me a lot about factor analysis and gave me a solid foundation in conducting scientific literature reviews.  
