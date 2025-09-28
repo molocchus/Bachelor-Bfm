@@ -1,4 +1,4 @@
-# Comparison of Double Factor Rotation Methods
+# Comparison of Bifactor Rotation Methods
 
 - This is the topic of my bachelor’s thesis. I wanted to write an ambitious, rigorous thesis, in which I was assisted by a professor from MIMUW.  
 - The analyses for the thesis were conducted using the R programming language.  
